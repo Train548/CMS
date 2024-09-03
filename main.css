@@ -17,6 +17,7 @@ header {
     width: 200px;
     height: 500px;
 }
+/* main stuff */
 .main {
     background-color: hsl(200, 100%, 50%);
     border-radius: 10px;
